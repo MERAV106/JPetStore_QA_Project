@@ -71,7 +71,7 @@ The system is **stable for further regression testing** after fixes.
 ## 🔗 מסמכים קשורים / Related Documents
 - [STP_JPetStore_Full.docx](./STP_JPetStore_Full.docx)  
 - [STD_JPetStore.xlsx](./STD_JPetStore.xlsx)  
-- [STR_JPetStore.docx](./STR_JPetStore.docx)  
+- [STR_JPetStore.docx](./[STR_JPetStore.docx](https://github.com/MERAV106/JPetStore_QA_Project/blob/main/STR%20_JPetStore%20(1).pdf))  
 - [RTM_JPetStore.xlsx](./RTM_JPetStore.xlsx)
 
 ---
